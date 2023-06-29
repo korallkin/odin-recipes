@@ -1,0 +1,33 @@
+body {
+    background-color: #e4e4e4; 
+    font-family: 'Josefin Sans', Arial, sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.title {
+    border-bottom: 1.5px solid black;
+    padding-bottom: 20px;
+    margin: 40px 20px;
+    color: #1c1c1c;
+    text-align: center;
+    font-size: 70px;
+}
+
+.recipes ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.recipes li {
+    margin: 120px 0 60px 0;
+    font-size: 35px;
+}
+
+.recipes a {
+    color: #1c1c1c;
+    text-decoration: none;
+}
